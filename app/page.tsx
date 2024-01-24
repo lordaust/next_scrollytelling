@@ -5,7 +5,7 @@ import { getElementComponent } from './src/utilities/getElementComponent';
 export default function Home() {
   return (
     <main className='bg-gray-800'>
-      {document.map((chapter) => {
+      {document.map((chapter, index) => {
         const ChapterComponent = getChapterComponent(chapter.type);
 
         return (
