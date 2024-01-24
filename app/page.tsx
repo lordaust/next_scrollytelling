@@ -1,4 +1,4 @@
-import document from './document.json';
+import document from './src/data/document.json';
 import { getChapterComponent } from './src/utilities/getChapterComponent';
 import { getElementComponent } from './src/utilities/getElementComponent';
 

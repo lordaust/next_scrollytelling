@@ -5,7 +5,7 @@ type TElementTypeEmpty = {
 
 export default function ElementTypeEmpty({ children, content }: TElementTypeEmpty) {
   return (
-    <div className='border 2 bg-amber-800 border-white w-1/2'>
+    <div className='border 2 bg-amber-800 border-white w-1/2  min-h-80'>
       No type! {children} - {content}
     </div>
   );
