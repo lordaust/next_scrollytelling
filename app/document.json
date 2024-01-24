@@ -1,0 +1,133 @@
+[
+    {
+        "chapterId": 1,
+        "type": "video",
+        "details": {
+            "videoId": "123456789"
+        },
+        "elements": [
+            {
+                "id": "1-1",
+                "type": "paragraph",
+                "content": "This is a test text 1-1"
+            },
+            {
+                "id": "1-2",
+                "type": "quote",
+                "content": "This is a test text 1-2"
+            }
+        ]
+    },
+    {
+        "chapterId": 2,
+        "type": "gradient",
+        "details": {
+            "fromColor": "green-800",
+            "toColor": "green-200"
+        },
+        "elements": [
+            {
+                "id": "2-1",
+                "type": "quote",
+                "content": "This is a test text 2-1"
+            },
+            {
+                "id": "2-2",
+                "type": "paragraph",
+                "content": "This is a test text 2-2"
+            }
+        ]
+    },
+    {
+        "chapterId": 3,
+        "type": "image",
+        "details": {
+            "imageURL": "backgroundimage1.jpg"
+        },
+        "elements": [
+            {
+                "id": "3-1",
+                "type": "paragraph",
+                "content": "This is a test text 3-1"
+            },
+            {
+                "id": "3-2",
+                "type": "quote",
+                "content": "This is a test text 3-2"
+            },
+            {
+                "id": "3-3",
+                "type": "quote",
+                "content": "This is a test text 3-3"
+            }
+        ]
+    },
+    {
+        "chapterId": 4,
+        "type": "color",
+        "details": {
+            "color": "bg-green-800"
+        },
+        "elements": [
+            {
+                "id": "4-1",
+                "type": "quote",
+                "content": "This is a test text 4-1"
+            },
+            {
+                "id": "4-2",
+                "type": "empty",
+                "content": "This is a test text 4-2"
+            },
+            {
+                "id": "4-3",
+                "type": "paragraph",
+                "content": "This is a test text 4-3"
+            },
+            {
+                "id": "4-4",
+                "type": "text",
+                "content": "This is a test text 4-4"
+            }
+        ]
+    },
+    {
+        "chapterId": 5,
+        "type": "gradient",
+        "details": {
+            "fromColor": "yellow-800",
+            "toColor": "red-200"
+        },
+        "elements": [
+            {
+                "id": "5-1",
+                "type": "paragraph",
+                "content": "This is a test text 5-1"
+            },
+            {
+                "id": "2-2",
+                "type": "quote",
+                "content": "This is a test text 5-2"
+            }
+        ]
+    },
+    {
+        "chapterId": 6,
+        "type": "image",
+        "details": {
+            "imageURL": "backgroundimage2.jpg"
+        },
+        "elements": [
+            {
+                "id": "6-1",
+                "type": "paragraph",
+                "content": "This is a test text 6-1"
+            },
+            {
+                "id": "6-2",
+                "type": "quote",
+                "content": "This is a test text 6-2"
+            }
+        ]
+    }
+]
